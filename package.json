@@ -1,0 +1,25 @@
+{
+  "name": "npm-sync-taobao",
+  "version": "1.0.0",
+  "description": "npm package",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazyperson/npm-sync-taobao.git"
+  },
+  "keywords": [
+    "npm-package"
+  ],
+  "author": "lazyperson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lazyperson/npm-sync-taobao/issues"
+  },
+  "homepage": "https://github.com/lazyperson/npm-sync-taobao#readme",
+  "devDependencies": {
+    "axios": "^0.27.2"
+  }
+}
