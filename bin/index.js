@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const axios = require('axios').default;
 
 const packageName = require('../package.json').name;
